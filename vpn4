@@ -84,7 +84,7 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "bot.fazadi.info"
+        "WS7-All-@ArV2ray § 0"
       ],
       "default": "auto"
     },
@@ -102,7 +102,7 @@
       "type": "vless",
       "tag": "WS7-All-@ArV2ray § 0",
       "server": "www.speedtest.net",
-      "server_port": 8080,
+      "server_port": 22,
       "uuid": "telegram-id-ArV2ray",
       "transport": {
         "type": "ws",
